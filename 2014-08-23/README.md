@@ -10,4 +10,5 @@ Em um determinado momento, o jogo irá esgotar as suas perguntas e fará um palp
 Se o jogo fez o palpite correto, o jogo se encerra e pode ser reiniciado com outro animal.
 
 Se o jogo errar o palpite, ele irá solicitar ao usuário o nome do animal que ele estava pensando e também uma pergunta que não tenha sido feita que possa identificar esse animal (a resposta deve ser apenas sim ou não). Essa pergunta irá compor o "banco de dados" do jogo e poderá ser usada em outro animal no futuro (se apropriado).
-Fonte: Jim Weirich - http://www.rubyquiz.com/quiz15.html
+Fonte: http://dojopuzzles.com/problemas/exibe/quiz-animal/
+Fonte original: Jim Weirich - http://www.rubyquiz.com/quiz15.html
